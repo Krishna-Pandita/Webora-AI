@@ -1,6 +1,12 @@
-node_modules/
-dist/
+# Dependencies
+**/node_modules/
 
-# Ignore all .env files
+# Environment files
 **/.env
 **/.env.local
+
+# Build folders
+**/dist/
+
+# Logs
+*.log
